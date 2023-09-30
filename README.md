@@ -2,6 +2,6 @@
 - 👀 Nice to meet you!
   
 <!---
-ECoreen/ECoreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECoreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
